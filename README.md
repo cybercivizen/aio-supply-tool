@@ -14,6 +14,8 @@ User friendly CLI app that allows user to:
   * Single main fee payer.
   * ALTs.
   * Clean UI + easy to use.
+  * Configurable randomness factor.
+  * And many more...
 
 
 *DM on discord for more details and previews: **cyderbog***
