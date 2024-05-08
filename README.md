@@ -1,5 +1,6 @@
 ## ALL-IN-ONE Supply Management Tool for Solana Tokens
 If you need help to manage your supply after you launch and snipe your new tokens, this tool is for you.
+
 User friendly CLI app that allows user to:
 
 * Distribute SPL tokens from x wallets to x wallets.
