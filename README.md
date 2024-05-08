@@ -1,4 +1,6 @@
-## ALL-IN-ONE Supply Management Tool for Solana Tokens
+## dev[a]station - ALL-IN-ONE Supply Management Tool for Solana Tokens
+> a dev's workstation is a gambler's devastation.
+> 
 If you need help to manage your supply after you launch and snipe your new tokens, this tool is for you.
 
 User friendly CLI app that allows user to:
